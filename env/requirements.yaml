@@ -13,6 +13,3 @@ dependencies:
 - name: rb-mock
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
-- name: vidly
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
