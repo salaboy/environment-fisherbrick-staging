@@ -2,9 +2,6 @@ dependencies:
 - name: activiti-cloud-apps-operator
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
-- name: devcon2019-gateway
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.31
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
